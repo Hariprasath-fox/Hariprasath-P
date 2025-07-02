@@ -15,7 +15,6 @@
 - 🤝 Open to internships, collaborations, and open-source contributions
 
 ---
-
 ### 🌱 Currently Learning
 
 - MERN Stack (MongoDB, Express, React, Node.js)
@@ -27,7 +26,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: aadhi.pugazhendi@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL) *(replace this)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hariprasath-p-30aa09364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
